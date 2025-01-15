@@ -1,10 +1,8 @@
 * {
-padding: 0;
-margin: 0;
-box-sizing: border-box;
-
-}
-
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
 
 nav {
 position: absolute;
@@ -127,10 +125,13 @@ display: block;
 position: absolute;
 width: 100%;
 left: 0;
-right: auto;
+right: 100%;
 top: 100px;
 bottom: 100%;
 box-sizing: border-box;
+height: auto;
+padding: 0;
+margin: 0;
 }
 
 
